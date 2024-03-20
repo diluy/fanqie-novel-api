@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/techoc/fanqie-novel-api/conf"
-	"github.com/techoc/fanqie-novel-api/middleware"
 	"github.com/techoc/fanqie-novel-api/models"
 	"github.com/techoc/fanqie-novel-api/pkg/global"
 	"github.com/techoc/fanqie-novel-api/routers"
