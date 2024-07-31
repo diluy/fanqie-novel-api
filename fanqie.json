@@ -37,9 +37,9 @@
     "ruleReview": {},
     "ruleExplore": {},
     "bookSourceType": 0,
-    "bookSourceUrl": "https://novel.acgh.top",
+    "bookSourceUrl": "http://fanqie.xxruan.cn:8000/",
     "bookSourceName": "番茄自建API",
     "bookSourceGroup": "番茄",
-    "searchUrl": "https://novel.acgh.top/book/search?name={{key}}"
+    "searchUrl": "http://fanqie.xxruan.cn:8000/book/search?name={{key}}"
   }
 ]
