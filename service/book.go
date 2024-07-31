@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/techoc/fanqie-novel-api/models"
-	"github.com/techoc/fanqie-novel-api/pkg/fanqie"
+	"fanqie-novel-api/models"
+	"fanqie-novel-api/pkg/fanqie"
 	"log"
 )
 

@@ -1,8 +1,8 @@
 package fanqie
 
 import (
+	"fanqie-novel-api/models"
 	"github.com/imroc/req/v3"
-	"github.com/techoc/fanqie-novel-api/models"
 	"log"
 	"regexp"
 	"strconv"

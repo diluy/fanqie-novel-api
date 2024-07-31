@@ -1,4 +1,4 @@
-module github.com/techoc/fanqie-novel-api
+module fanqie-novel-api
 
 go 1.22
 

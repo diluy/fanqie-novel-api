@@ -1,12 +1,12 @@
 package main
 
 import (
+	"fanqie-novel-api/conf"
+	"fanqie-novel-api/models"
+	"fanqie-novel-api/pkg/global"
+	"fanqie-novel-api/routers"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/techoc/fanqie-novel-api/conf"
-	"github.com/techoc/fanqie-novel-api/models"
-	"github.com/techoc/fanqie-novel-api/pkg/global"
-	"github.com/techoc/fanqie-novel-api/routers"
 	"log"
 	"net/http"
 )

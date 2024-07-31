@@ -1,6 +1,6 @@
 package api
 
-import "github.com/techoc/fanqie-novel-api/service"
+import "fanqie-novel-api/service"
 
 type ApiGroup struct {
 	BookAPI

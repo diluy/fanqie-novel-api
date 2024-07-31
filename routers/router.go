@@ -1,6 +1,6 @@
 package routers
 
-import "github.com/techoc/fanqie-novel-api/api"
+import "fanqie-novel-api/api"
 
 type RouterGroup struct {
 	BookRouter

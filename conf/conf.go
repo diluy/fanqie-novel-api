@@ -1,9 +1,9 @@
 package conf
 
 import (
+	"fanqie-novel-api/pkg/global"
 	"fmt"
 	"github.com/spf13/viper"
-	"github.com/techoc/fanqie-novel-api/pkg/global"
 )
 
 func Setup() {
@@ -42,6 +42,6 @@ func initGlobal() {
 	global.DatabaseConf.User = viper.GetString("database.User")
 
 	// 从环境变量中获取数据库配置
-	global.DatabaseConf.DSN = viper.GetString("DSN")
-	global.DatabaseConf.Type = viper.GetString("DATABASE_TYPE")
+	//global.DatabaseConf.DSN = viper.GetString("DSN")
+	//global.DatabaseConf.Type = viper.GetString("DATABASE_TYPE")
 }

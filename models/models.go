@@ -1,8 +1,8 @@
 package models
 
 import (
+	"fanqie-novel-api/pkg/global"
 	"fmt"
-	"github.com/techoc/fanqie-novel-api/pkg/global"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
